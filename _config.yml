@@ -15,10 +15,10 @@ json:
     - Looks like json
     - Welcome to my mini profile :)
   cv: assets/ericreymundo-resume.pdf
-  address:
-    - University of North Texas
-    - College of Information
-    - Denton, TX
+  profession:
+    - Cloud Security Engineer
+    - PepsiCo
+    - Plano, TX
   contact:
     email: ereymundo2013@gmail.com
   profiles:
