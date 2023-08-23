@@ -3,7 +3,7 @@
 title: Eric Reymundo
 description: Jekyll microtheme that looks like JSON
 baseurl: ""
-url: https://hacked-jekyll.netlify.app
+url: https://ericreymundo-hacked-resume.github.io
 
 # this information is shown on the homepage, all fields are optional and
 # can be declared either as a single string or as a string array/hash
@@ -20,10 +20,7 @@ json:
     - College of Information
     - Denton, TX
   contact:
-    office: Foobar Hall 1.23
-    phone: +1 234 567 890
-    email: username@domain.com
-  source: https://github.com/piazzai/hacked-jekyll
+    email: ereymundo2013@gmail.com
   profiles:
     linkedin: https://www.linkedin.com/in/eric-reymundo/
     github: https://github.com/ericlikedis
