@@ -15,7 +15,7 @@ json:
     - Looks like json
     - Welcome to my mini profile :)
   cv: assets/ericreymundo-resume.pdf
-  profession:
+  address:
     - Cloud Security Engineer
     - PepsiCo
     - Plano, TX
